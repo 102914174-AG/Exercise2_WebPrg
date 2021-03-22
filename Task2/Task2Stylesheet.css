@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+input {
+    border: dimgray;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+input[type=submit] {
+    background-color: forestgreen;
+}
+
+div {
+    background-color: white;
+}
